@@ -1,0 +1,170 @@
+fileFormatVersion: 2
+guid: 24e4b4aaa44d2e140bb9913d025dde4d
+timeCreated: 1517003094
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: AirConditionerBig
+    100002: AirConditionerSmall
+    100004: barricade
+    100006: catWalkCappedEnds
+    100008: catWalkLeft
+    100010: catWalkMiddle
+    100012: catWalkRight
+    100014: column.001
+    100016: column_noDecal.001
+    100018: Ladder
+    100020: stairs1Unit.001
+    100022: stairs2Units.001
+    100024: //RootNode
+    100026: column
+    100028: column2
+    100030: stairs1
+    100032: stairs2
+    400000: AirConditionerBig
+    400002: AirConditionerSmall
+    400004: barricade
+    400006: catWalkCappedEnds
+    400008: catWalkLeft
+    400010: catWalkMiddle
+    400012: catWalkRight
+    400014: column.001
+    400016: column_noDecal.001
+    400018: Ladder
+    400020: stairs1Unit.001
+    400022: stairs2Units.001
+    400024: //RootNode
+    400026: column
+    400028: column2
+    400030: stairs1
+    400032: stairs2
+    2100000: No Name
+    2300000: AirConditionerBig
+    2300002: AirConditionerSmall
+    2300004: barricade
+    2300006: catWalkCappedEnds
+    2300008: catWalkLeft
+    2300010: catWalkMiddle
+    2300012: catWalkRight
+    2300014: column.001
+    2300016: column_noDecal.001
+    2300018: Ladder
+    2300020: stairs1Unit.001
+    2300022: stairs2Units.001
+    2300024: column
+    2300026: column2
+    2300028: stairs1
+    2300030: stairs2
+    3300000: AirConditionerBig
+    3300002: AirConditionerSmall
+    3300004: barricade
+    3300006: catWalkCappedEnds
+    3300008: catWalkLeft
+    3300010: catWalkMiddle
+    3300012: catWalkRight
+    3300014: column.001
+    3300016: column_noDecal.001
+    3300018: Ladder
+    3300020: stairs1Unit.001
+    3300022: stairs2Units.001
+    3300024: column
+    3300026: column2
+    3300028: stairs1
+    3300030: stairs2
+    4300000: catWalkLeft
+    4300002: catWalkMiddle
+    4300004: catWalkCappedEnds
+    4300006: catWalkRight
+    4300008: AirConditionerSmall
+    4300010: column_noDecal.001
+    4300012: barricade
+    4300014: Ladder
+    4300016: column.001
+    4300018: AirConditionerBig
+    4300020: stairs1Unit.001
+    4300022: stairs2Units.001
+    4300024: column2
+    4300026: column
+    4300028: stairs1
+    4300030: stairs2
+  externalObjects: {}
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 0
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

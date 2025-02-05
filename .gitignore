@@ -47,6 +47,9 @@ ExportedObj/
 *.opendb
 *.VC.db
 
+#3D Models
+*.blend1
+
 # Unity3D generated meta files
 *.pidb.meta
 *.pdb.meta
@@ -59,7 +62,6 @@ sysinfo.txt
 *.apk
 *.aab
 *.unitypackage
-*.unitypackage.meta
 *.app
 
 # Crashlytics generated file
